@@ -1,0 +1,4 @@
+.nav li:hover .dropdown-content {
+    display: block; /* Show dropdown content on hover */
+  }
+  
